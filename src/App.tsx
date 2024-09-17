@@ -4,6 +4,13 @@ import React, { useRef, useState } from "react";
 import Webcam from "react-webcam";
 import { runDetector } from "./dectector";
 
+<<<<<<< HEAD
+=======
+const inputResolution = {
+  width: 700,
+  height: 700,
+};
+>>>>>>> 942a729c41dc164f73ea0cc95295ef73017cecb2
 
 
  
