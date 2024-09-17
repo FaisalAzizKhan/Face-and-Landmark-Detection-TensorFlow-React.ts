@@ -5,8 +5,8 @@ import Webcam from "react-webcam";
 import { runDetector } from "./dectector";
 
 const inputResolution = {
-  width: 1080,
-  height: 900,
+  width: 700,
+  height: 700,
 };
 
 const videoConstraints = {
